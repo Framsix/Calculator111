@@ -91,7 +91,7 @@ class Main {
                 return "throws Exception";
             }
             else {
-                return String.valueOf(sum);
+                return String.valueOf(sumString);
             }
         }
         else if (proverka == 1){
